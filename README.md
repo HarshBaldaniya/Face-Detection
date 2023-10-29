@@ -28,11 +28,11 @@ This Python application uses the K-Nearest Neighbors (KNN) algorithm for real-ti
 
 ## Usage
 
-- **test.py 📷: Run this script to perform real-time face recognition. Press 'O' to capture attendance and save it to an Excel sheet, and press 'Q' to exit.
+- **test.py 📷**: Run this script to perform real-time face recognition. Press 'O' to capture attendance and save it to an Excel sheet, and press 'Q' to exit.
 
-- **addFace.py 📸: Use this script to capture and store facial data for recognition. It records 30 samples per person.
+- **addFace.py 📸**: Use this script to capture and store facial data for recognition. It records 30 samples per person.
 
-- **app.py 🌐: Start the Streamlit app to visualize attendance data. Conditional "FizzBuzz" counting is also implemented in the app.
+- **app.py 🌐**: Start the Streamlit app to visualize attendance data. Conditional "FizzBuzz" counting is also implemented in the app.
 
 ## Data Files
 
