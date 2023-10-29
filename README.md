@@ -40,6 +40,10 @@ This Python application uses the K-Nearest Neighbors (KNN) algorithm for real-ti
 
 ## Screenshots
 
+![face](https://github.com/HarshBaldaniya/Face-Detection/assets/89580214/9eb80a8b-99c1-4715-9992-0a45aaa65cb1)
+![output](https://github.com/HarshBaldaniya/Face-Detection/assets/89580214/e077ad42-b2e6-475c-9c40-68bd263e5507)
+
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.harshbaldaniya.com/)
