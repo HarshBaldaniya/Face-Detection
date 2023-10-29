@@ -38,6 +38,8 @@ This Python application uses the K-Nearest Neighbors (KNN) algorithm for real-ti
 
 - Face data and label data are stored in 'data/names.pkl' and 'data/faces_data.pkl', respectively. These files are automatically created and updated as needed.
 
+## Screenshots
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.harshbaldaniya.com/)
