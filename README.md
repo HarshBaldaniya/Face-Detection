@@ -1,4 +1,4 @@
-# Face Recognition App 👤🔍
+# Face Recognition App & Attendance System 👤🔍
 
 ## Overview
 
@@ -24,7 +24,12 @@ This Python application uses the K-Nearest Neighbors (KNN) algorithm for real-ti
 2. Ensure you have the necessary dependencies installed, including OpenCV, NumPy, Scikit-learn, and Streamlit.
 3. Run the test.py script to start face recognition.
 4. Use the addFace.py script to add new faces to the recognition dataset.
-5. Access attendance data through the app.py Streamlit web application.
+5. Access attendance data through the app.py Streamlit (streamlit run app.py) web application.
+
+   - Run add face file
+   - Run test file and take attendance
+   - Run streamlit run app.py
+
 
 ## Usage
 
